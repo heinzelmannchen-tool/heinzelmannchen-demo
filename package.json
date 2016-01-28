@@ -1,0 +1,21 @@
+{
+  "name": "heinzelmannchen-demo",
+  "version": "1.0.0",
+  "description": "Demo issues for heinzelmannchen",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heinzelmannchen-tool/heinzelmannchen-demo.git"
+  },
+  "author": "Daniel Strebel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/heinzelmannchen-tool/heinzelmannchen-demo/issues"
+  },
+  "homepage": "https://github.com/heinzelmannchen-tool/heinzelmannchen-demo#readme",
+  "dependencies": {
+    "lodash": "^4.0.1",
+    "request": "^2.69.0"
+  }
+}
